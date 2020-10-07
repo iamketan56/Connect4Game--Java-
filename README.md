@@ -3,3 +3,8 @@
  <b>Snapshots</b>
 <br>
 ![](https://github.com/iamketan56/Connect4Game--Java-/blob/master/connect1.PNG)
+![](https://github.com/iamketan56/Connect4Game--Java-/blob/master/connect2.PNG)
+![](https://github.com/iamketan56/Connect4Game--Java-/blob/master/connect3.PNG)
+![](https://github.com/iamketan56/Connect4Game--Java-/blob/master/connect4.PNG)
+![](https://github.com/iamketan56/Connect4Game--Java-/blob/master/connect5.PNG)
+
